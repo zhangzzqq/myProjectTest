@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         Toast.makeText(baseContext,"123",Toast.LENGTH_LONG).show()
-
+        Toast.makeText(baseContext,"123",Toast.LENGTH_LONG).show()
 
     }
 }
